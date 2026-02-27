@@ -30,6 +30,6 @@ Analyze smart device usage data to identify trends and provide data-driven marke
 - Use personalized wellness messaging
 
 ## Files
-- SQL scripts: `/sql`
-- Tableau dashboard: `/tableau`
-- Visualizations: `/visuals`
+- SQL scripts: `bellabeat_analysis.sql`
+- Tableau dashboard: `Dashboard 1.png
+/tableau`
