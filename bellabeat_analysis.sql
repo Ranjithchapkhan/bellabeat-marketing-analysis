@@ -45,3 +45,4 @@ case when Totalsteps < 5000 then "Low Activity"
  from `project-bellabeat-488416.Bellabeat_Data.activity_sleep`
  where totalminutesasleep is not null
  group by activity_level;
+
